@@ -1,0 +1,11 @@
+# Compiled classes
+*.class
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+# Output folders
+out/
+build/
+target/
